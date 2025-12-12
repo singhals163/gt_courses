@@ -1,0 +1,9 @@
+[submodule "cs8803gpu"]
+	path = cs8803gpu
+	url = https://github.com/singhals163/cs8803
+[submodule "cs6290"]
+	path = cs6290
+	url = https://github.com/singhals163/cs6290
+[submodule "cs6210"]
+	path = cs6210
+	url = https://github.com/singhals163/cs6210
